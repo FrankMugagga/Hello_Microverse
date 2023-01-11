@@ -23,7 +23,7 @@ memo License
 book [Hello_Microverse]
 Describe your project in 1 or 2 sentences.
 
-[your_project__name] is a...
+[Hello_Microverse] is a...
 
 hammer_and_wrench Built With
 Tech Stack
